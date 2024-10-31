@@ -21,4 +21,4 @@
 
 Este projeto é uma aplicação simples utilizando AWT e Swing para criar uma interface gráfica com uma janela que contém um rótulo, um campo de texto e três botões. Ele serve como um exemplo básico de como instanciar e utilizar componentes Swing em um layout BorderLayout.
 
-##![interfacetela]()
+##![interfacetela](https://github.com/LcasQueirxz/MODELO_TELA/blob/main/image/Captura%20de%20Tela%202024-10-30%20%C3%A0s%2021.23.33.png)
